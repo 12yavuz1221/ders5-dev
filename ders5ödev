@@ -1,0 +1,2 @@
+if message.content.startswith("komik birşey gönder"):
+        await message.channel.send("M2L1-T2-1_tlaheo.png")
